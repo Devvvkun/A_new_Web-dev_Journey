@@ -40,6 +40,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 1000px;
+    width: 90vw;
+    margin: 0px 30px 0px 80px;
+    background-color: #0bed38;
 
 }
 .boxes{
@@ -50,7 +54,8 @@
 }
 .box1{
     background-color: chocolate;
-    margin-right: 55px;
+    margin-right: 45px;
+    margin-left: 30px;
 }
 .box2{
     background-color: rgb(210, 30, 144);
