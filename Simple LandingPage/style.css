@@ -83,6 +83,7 @@
 .logo{
     height: 100px;
     width: 100px;
+    border-radius: 50%;
     border: 2px solid #ce2020;
     position: fixed;
     right: 0px;
